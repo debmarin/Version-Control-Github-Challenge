@@ -1,0 +1,6 @@
+1. The terminal is an interface where you can type commands. 
+You are able to create files, move files, make directories and more.
+2. Git is a version control system that is stored locally on your computer. 
+Github is a place where you upload Git repositories. It is a cloud storage. 
+3. We use Github because it's conducive to collaboration and it's a good idea to store things remotely 
+just in case something happens to the local repository. 
